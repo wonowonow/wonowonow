@@ -1,7 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=d9d9d9&height=180&text=⭐　　WONOW　　⭐&animation=fadeIn&fontColor=353535&fontSize=60" />
-    </div>
-    <div style="text-align: left;"> 
+</div>
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello 👋 It's WONOW world 😎 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         안녕하세요🐼 개발자로써 역량을 키워나가고 있는 WONOW입니다.<br></li>
@@ -22,8 +22,8 @@
         이러한 성격 덕에 어떠한 분야든 더 깊이 있는 탐구로 분야 이해 능력을 빠르게 키울 수 있었습니다.<br>
         추가로.. 몰입하다 제 상식에서 이해 안 되는 것이 나오면 스트레스 받으면서 두통이 오는데, 진통제 먹으면서 이해할 때까지 부딪힙니다..🤣<br><br>
     </div> 
-    </div>
-    <div style="text-align: left;">
+</div>
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
@@ -34,21 +34,22 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
           </div>
-    </div>
+</div>
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-        <div style="text-align: left;">
-            <a href=https://wonowdaily.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://wonowdaily.tistory.com/"> </a>
-            <a href=mailto:wonowdaily@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wonowdaily@gmail.com"> </a>
-        </div>  <br> 
-        <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonowonow%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-        </div> 
-    </div>
-    <div style="text-align: left;"> 
+        <a href=https://wonowdaily.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://wonowdaily.tistory.com/"> </a>
+        <a href=mailto:wonowdaily@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wonowdaily@gmail.com"> </a>
+    </div>  <br> 
+    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonowonow%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+    </div> 
+</div>
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-        <div style="text-align: left;">
-            <img src="https://github-readme-stats.vercel.app/api?username=wonowonow&bg_color=180,d9d9d9,00000000&title_color=ffffff&text_color=ffffff"/>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonowonow&layout=compact&bg_color=180,d9d9d9,00000000&title_color=ffffff&text_color=ffffff"/>
-        </div>
-    </div>
+    <div style="text-align: left;">
+        <img src="https://github-readme-stats.vercel.app/api?username=wonowonow&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonowonow&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
+    </div> 
+</div>
+    
     
