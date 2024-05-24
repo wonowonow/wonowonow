@@ -4,8 +4,8 @@
 
 ## Hello 👋 It's WONOW world 😎
 
-안녕하세요🐼 개발자로써 역량을 키워나가고 있는 WONOW입니다.<br>
-컴퓨터 음악 작곡을 하다가 개발에 흥미가 생겨서 몰입하며 배우고 있습니다!<br><br>
+안녕하세요🐼 개발자로써 역량을 키워나가고 있는 WONOW입니다.  
+컴퓨터 음악 작곡을 하다가 개발에 흥미가 생겨서 몰입하며 배우고 있습니다!
 
 ## 🛠️ Tech Stacks
 
@@ -22,8 +22,8 @@
 <div>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=flat&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=Hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/QueryDSL-512BD4?style=flat&logo=QueryDSL&logoColor=white">
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white">
 </div>
 
-### Etc
+#### Etc
 <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
@@ -40,20 +40,9 @@
 </div>
 
 ## 🧑‍💻 Contact me
-<div style="text-align: left;">
-    <a href="https://wonowdaily.tistory.com/"> 
-        <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://wonowdaily.tistory.com/">
-    </a>
-    <a href="mailto:wonowdaily@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wonowdaily@gmail.com">
-    </a>
-</div>
-<br>
-<div style="text-align: left;">
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonowonow%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-    </a>
-</div>
+
+- [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://wonowdaily.tistory.com/)
+- [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:wonow_@naver.com)
 
 ## 🏅 Stats
 <div style="text-align: left;">
@@ -69,3 +58,9 @@
 - ✅ Wanted 컨테이너 기반 서버 관리 경험으로 면접 뽀개기 | 프리온보딩 BE 챌린지 5월 (2024-05)
 - 📝 스프링 핵심 원리 - 기본편 (2024-04 ~ ing)
 - 📝 자바 ORM 표준 JPA 프로그래밍 - 기본편 (2024-05 ~ ing)
+
+<div style="text-align: left;">
+    <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonowonow%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+    </a>
+</div>
